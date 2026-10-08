@@ -35,7 +35,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "8106b6e47fe3a5614d689ab7005575cb7ab34469"
+        "sha": "940b8795c0df3e25de68ce3881dc90855129b215"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -77,7 +77,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "124ba147f53a38fdcb74595d59ceaadae022bf60"
+        "sha": "8fdc995a44102a30ad54164e0bdd249d158c725c"
       },
       "homepage": "https://github.com/AikidoSec/aikido-claude-plugin"
     },
@@ -165,7 +165,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "1ec1a1fa00efadd58037fc8bff4e06e707139fc5"
+        "sha": "486ee63d01f8126c52fbc92c36cd36ec31708dcd"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -186,7 +186,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/atlassian/atlassian-mcp-server.git",
-        "sha": "eb9a5956a7ac6380c731c725a8382da53ad6d980"
+        "sha": "b74220d41142fae52b4f680c805b2ab81050991a"
       },
       "homepage": "https://github.com/atlassian/atlassian-mcp-server"
     },
@@ -217,7 +217,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "536643641d64d17cac283b5039c6f9677faa27b7"
+        "sha": "55f4ba0e421566d6d0c512e52c8ffb89597ef3a9"
       },
       "homepage": "https://auth0.com/docs/quickstart/agent-skills"
     },
@@ -233,7 +233,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "05cb747b29ec81dd6952e8655b6511975a8c4e5d"
+        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -262,7 +262,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "05cb747b29ec81dd6952e8655b6511975a8c4e5d"
+        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -278,7 +278,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "05cb747b29ec81dd6952e8655b6511975a8c4e5d"
+        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -318,7 +318,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-skills.git",
-        "sha": "74f27068b21b85807e35ae69ab3976756b060c03"
+        "sha": "cb1af2f0930ce2bd69fd4a627612eb76e171c17d"
       },
       "homepage": "https://github.com/microsoft/azure-skills"
     },
@@ -340,7 +340,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "6765a7fbb68a4de8669a5311e8c7e8acb5c02860"
+        "sha": "ec2ae226d4441326e32fa56c230b5f49f0682885"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -356,7 +356,7 @@
         "url": "https://github.com/Bigdata-com/bigdata-plugins-marketplace.git",
         "path": "plugins/bigdata-com",
         "ref": "main",
-        "sha": "66be2d1aca7630d826afb1a16e42614b0917730c"
+        "sha": "43777fbdb9298ea8f5cbc001d18144e95346df93"
       },
       "homepage": "https://docs.bigdata.com"
     },
