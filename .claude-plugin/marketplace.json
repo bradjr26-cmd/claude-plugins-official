@@ -35,7 +35,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "940b8795c0df3e25de68ce3881dc90855129b215"
+        "sha": "005dbae650978f73d208d17a610e3e428d383d3b"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -120,7 +120,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/amazon-location-service",
         "ref": "main",
-        "sha": "da51970aeb6db40de060020735f8f5376786d248"
+        "sha": "fbefb3764e67558fe10ac834dd85db49734aa9b6"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -198,7 +198,7 @@
         "source": "url",
         "url": "https://github.com/BrainBlend-AI/atomic-agents.git",
         "path": "claude-plugin/atomic-agents",
-        "sha": "d2b61b90b2816dbdf9f42f8638b7d375bf08cd11"
+        "sha": "4d4434745234b57dd3c2252d1a18726fbf1505db"
       },
       "homepage": "https://github.com/BrainBlend-AI/atomic-agents",
       "tags": [
@@ -217,7 +217,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "55f4ba0e421566d6d0c512e52c8ffb89597ef3a9"
+        "sha": "818a2ffb64e431db2c727c98c95cd46ceb8e3d24"
       },
       "homepage": "https://auth0.com/docs/quickstart/agent-skills"
     },
@@ -233,7 +233,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
+        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -246,7 +246,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/aws-amplify",
         "ref": "main",
-        "sha": "da51970aeb6db40de060020735f8f5376786d248"
+        "sha": "fbefb3764e67558fe10ac834dd85db49734aa9b6"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -262,7 +262,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
+        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -278,7 +278,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "df2ab44e485b28358353d827e5ebafbe267cce9f"
+        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -307,7 +307,7 @@
         "url": "https://github.com/awslabs/agent-plugins.git",
         "path": "plugins/aws-serverless",
         "ref": "main",
-        "sha": "da51970aeb6db40de060020735f8f5376786d248"
+        "sha": "fbefb3764e67558fe10ac834dd85db49734aa9b6"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
     },
@@ -318,7 +318,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-skills.git",
-        "sha": "cb1af2f0930ce2bd69fd4a627612eb76e171c17d"
+        "sha": "9bb168c34349d7a53d24e9033ba8de6df69d9097"
       },
       "homepage": "https://github.com/microsoft/azure-skills"
     },
@@ -367,7 +367,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/box-for-ai.git",
-        "sha": "16f1a0427710b0812519ea634cd5ce6830bde8fc"
+        "sha": "35567f913a2bfd7f8b59367c9df3ae14b5ad4cfe"
       },
       "skills": [
         "./skills/box",
@@ -384,7 +384,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/brightdata/skills.git",
-        "sha": "68651246ad1819b98a1fc15ce10239e55406ff37"
+        "sha": "06e2b5caf440a502f88d03dd1c5817f6b0f02e1d"
       },
       "homepage": "https://docs.brightdata.com"
     },
@@ -400,7 +400,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "0ea36b3917a67e3076cfb104734d69e62d8baec4"
+        "sha": "ea7fe1d4db0f0f273799ec4b40070c3c6b00fdcc"
       },
       "homepage": "https://carta.com"
     },
@@ -416,7 +416,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cap-js/mcp-server.git",
-        "sha": "281e8f051210a8cd9ee635b07b848fe3839a6498"
+        "sha": "a6c90162864cab922708cec32d08e3a1309e91b0"
       },
       "homepage": "https://cap.cloud.sap/"
     },
@@ -427,7 +427,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "63304ef89624f1f89a6a2aad14bbc9a7ae6dde58"
+        "sha": "bbb1e36ebf38a942b4dcc789cd4e963939649aaf"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -438,7 +438,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/circlebackai/claude-code-plugin.git",
-        "sha": "6369dec7da4059dd0a12cf1b62ba749799ee15ef"
+        "sha": "a610634c95ab310accf20a0cabdf0fa7ab784fa3"
       },
       "homepage": "https://github.com/circlebackai/claude-code-plugin.git"
     },
@@ -505,7 +505,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
-        "sha": "bfd22b9ca64288c149a623c45ad933b23f9de019"
+        "sha": "652664c8924c5a9454d9a7a5f6191944b4adfb11"
       },
       "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin"
     },
@@ -519,7 +519,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/cloud-sql-postgresql.git",
-        "sha": "5b9bc21c13324282e50183326709c533b49a97f3"
+        "sha": "1d758bb34795a37a29f543e78910eb7414927ac8"
       },
       "homepage": "https://cloud.google.com/sql"
     },
@@ -528,7 +528,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudflare/skills.git",
-        "sha": "60147cbb773649eadca89cee92b4e0caf02234b4"
+        "sha": "c430dd965cea3a8faf0ef035e3b3d73b38518081"
       },
       "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance.",
       "category": "deployment",
@@ -540,7 +540,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudinary-devs/cloudinary-plugin.git",
-        "sha": "7b443d7dbd607bfe4850d8cfcab6ba4cbf1a57c3"
+        "sha": "86be53409e3fb1c465cd5ff4d1dc937a2860f45c"
       },
       "homepage": "https://cloudinary.com/documentation"
     },
