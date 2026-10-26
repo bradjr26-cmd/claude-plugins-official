@@ -35,7 +35,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "005dbae650978f73d208d17a610e3e428d383d3b"
+        "sha": "8f35e907c7f0d2f29bf4f8537a88852f0082c067"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
@@ -67,7 +67,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/endorlabs/ai-plugins.git",
-        "sha": "2de00883bd2be8b8578b46ab09baf2c8731376de"
+        "sha": "a8903c62a0afc1d82a48a100cbd60013ef80f607"
       },
       "homepage": "https://www.endorlabs.com"
     },
@@ -77,7 +77,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/AikidoSec/aikido-claude-plugin.git",
-        "sha": "8fdc995a44102a30ad54164e0bdd249d158c725c"
+        "sha": "f62031b7fe1134d0ef992e5d8c639e316b0c577a"
       },
       "homepage": "https://github.com/AikidoSec/aikido-claude-plugin"
     },
@@ -131,7 +131,7 @@
         "url": "https://github.com/amplitude/mcp-marketplace.git",
         "path": "plugins/amplitude",
         "ref": "main",
-        "sha": "e61691f81196cfd9f4314a347f6d2b1c6106f780"
+        "sha": "56df461e0bd803d78c1ff46e79e8fab3b859b2e9"
       },
       "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts.",
       "category": "monitoring",
@@ -198,7 +198,7 @@
         "source": "url",
         "url": "https://github.com/BrainBlend-AI/atomic-agents.git",
         "path": "claude-plugin/atomic-agents",
-        "sha": "4d4434745234b57dd3c2252d1a18726fbf1505db"
+        "sha": "14cf8eb65d84b6614e99980b4cefefc98e2f5b05"
       },
       "homepage": "https://github.com/BrainBlend-AI/atomic-agents",
       "tags": [
@@ -217,7 +217,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "818a2ffb64e431db2c727c98c95cd46ceb8e3d24"
+        "sha": "7b3821d533430eef35fd7406a87b7b8d02302bdf"
       },
       "homepage": "https://auth0.com/docs/quickstart/agent-skills"
     },
@@ -233,7 +233,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-agents",
         "ref": "main",
-        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
+        "sha": "bcec7a6182a3354dd2c839d8cff9fb02fcf5b7d8"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -262,7 +262,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-core",
         "ref": "main",
-        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
+        "sha": "bcec7a6182a3354dd2c839d8cff9fb02fcf5b7d8"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -278,7 +278,7 @@
         "url": "https://github.com/aws/agent-toolkit-for-aws.git",
         "path": "plugins/aws-data-analytics",
         "ref": "main",
-        "sha": "2db893c4042ac9bdc8e61346675c3cf19caff02d"
+        "sha": "bcec7a6182a3354dd2c839d8cff9fb02fcf5b7d8"
       },
       "homepage": "https://github.com/aws/agent-toolkit-for-aws"
     },
@@ -318,7 +318,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/microsoft/azure-skills.git",
-        "sha": "9bb168c34349d7a53d24e9033ba8de6df69d9097"
+        "sha": "f3b512517ed86feceebfee480a46c971f6c6aff4"
       },
       "homepage": "https://github.com/microsoft/azure-skills"
     },
@@ -340,7 +340,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "ec2ae226d4441326e32fa56c230b5f49f0682885"
+        "sha": "061d03659782a90899703eed7b8eb87ce2db05d1"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -356,7 +356,7 @@
         "url": "https://github.com/Bigdata-com/bigdata-plugins-marketplace.git",
         "path": "plugins/bigdata-com",
         "ref": "main",
-        "sha": "43777fbdb9298ea8f5cbc001d18144e95346df93"
+        "sha": "02242cc04162b1e5568731036f7666539c5901d9"
       },
       "homepage": "https://docs.bigdata.com"
     },
@@ -367,7 +367,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/box-for-ai.git",
-        "sha": "35567f913a2bfd7f8b59367c9df3ae14b5ad4cfe"
+        "sha": "84320fd8984b95cab430335cd341d8314c14bbcb"
       },
       "skills": [
         "./skills/box",
@@ -384,7 +384,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/brightdata/skills.git",
-        "sha": "06e2b5caf440a502f88d03dd1c5817f6b0f02e1d"
+        "sha": "37503c1ba31056370323a9d5ba88dd003a280008"
       },
       "homepage": "https://docs.brightdata.com"
     },
@@ -400,7 +400,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "ea7fe1d4db0f0f273799ec4b40070c3c6b00fdcc"
+        "sha": "d617db68e758c21c763c7fb5a953a41d45eb0389"
       },
       "homepage": "https://carta.com"
     },
@@ -416,7 +416,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cap-js/mcp-server.git",
-        "sha": "a6c90162864cab922708cec32d08e3a1309e91b0"
+        "sha": "cf3b57279a12c4302cb69aeba01b1245acfd9f49"
       },
       "homepage": "https://cap.cloud.sap/"
     },
@@ -427,7 +427,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "bbb1e36ebf38a942b4dcc789cd4e963939649aaf"
+        "sha": "172656ab38a4ff666f88dc9032fa841834a69495"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -505,7 +505,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
-        "sha": "652664c8924c5a9454d9a7a5f6191944b4adfb11"
+        "sha": "0b66d6d77ff41c1ad001f52b4f2ac433bfccff5b"
       },
       "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin"
     },
@@ -528,7 +528,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cloudflare/skills.git",
-        "sha": "c430dd965cea3a8faf0ef035e3b3d73b38518081"
+        "sha": "86505e44f87d801aa1864a3c4109e9a8ae5c409f"
       },
       "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance.",
       "category": "deployment",
@@ -554,7 +554,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cockroachdb/claude-plugin.git",
-        "sha": "736bd11df55bac97e2a6c98be8e93503b125902c"
+        "sha": "df34a85848cdae38914ff13a5e70fcbd0d41db99"
       },
       "homepage": "https://github.com/cockroachdb/claude-plugin"
     },
